@@ -1,0 +1,26 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/user/s/sfuenzal/ROOTAnalysisTutorial/build/MyAnalysis/CMakeFiles/MyAnalysisDictReflexDict.cxx",
+			"labels" : 
+			[
+				"MyAnalysis"
+			]
+		},
+		{
+			"file" : "/afs/cern.ch/user/s/sfuenzal/ROOTAnalysisTutorial/source/MyAnalysis/MyAnalysis/MyAnalysisDict.h"
+		},
+		{
+			"file" : "/afs/cern.ch/user/s/sfuenzal/ROOTAnalysisTutorial/source/MyAnalysis/MyAnalysis/selection.xml"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MyAnalysis"
+		],
+		"name" : "MyAnalysisDict"
+	}
+}
